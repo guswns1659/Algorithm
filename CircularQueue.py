@@ -1,6 +1,6 @@
-"""
-환형큐 구
-"""
+#환형큐 구현
+
+
 class CircularQueue:
     def __init__(self, n):
         self.maxCount = n
